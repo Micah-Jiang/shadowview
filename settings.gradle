@@ -1,0 +1,2 @@
+rootProject.name='shadowview'
+include ':app'
